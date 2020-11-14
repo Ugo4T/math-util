@@ -25,5 +25,7 @@ public class main {
         //-1! exception
         //expected: IllegalArgumentException if tính -5
         System.out.println("-1"+MathUtility.getFactorial(-1));
+        // in Pi coi co giong math.PI k
+        System.out.println(MathUtility.PI);
     }
 }
