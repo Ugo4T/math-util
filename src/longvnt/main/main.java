@@ -27,5 +27,16 @@ public class main {
         System.out.println("-1"+MathUtility.getFactorial(-1));
         // in Pi coi co giong math.PI k
         System.out.println(MathUtility.PI);
+        //muốn kl hàm mình ngon thì ta phải nhìn = mắt kq chãy của hàm
+        // và so sánh vs kì vọng
+        // làm đúng trường hợp chạy hàm - test case
+        // cách này ổn, nhưng mất sức
+        // nâng cao: dùng màu sắc xanh đỏ để kết luận
+        //ta thấy xanh, hàm ý mọi tình huống ổn
+        // ta thấy đỏ, chỉ 1 thằng màu đỏ coi như hàm toang
+        //ta sài thêm 1 framework, unit test tên chung
+        // Junit, testing, nunit, ... là những framework cụ thể để giúp test các hàm
+        // một cách hiệu quả
+        // dùng nó ta tích hợp vào 1 quy trình làm phần mền lớn hơn
     }
 }
