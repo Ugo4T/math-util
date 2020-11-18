@@ -23,6 +23,9 @@ public class main {
         //0! =1
         System.out.println(MathUtility.getFactorial(0));
         //-1! exception
+        System.out.println("Goodbye and good luck to you all in the FINAL EXAM");
+        System.out.println("Hope that you all will get the GREEN ICONS");
+        
         //expected: IllegalArgumentException if tính -5
         System.out.println("-1"+MathUtility.getFactorial(-1));
         // in Pi coi co giong math.PI k
